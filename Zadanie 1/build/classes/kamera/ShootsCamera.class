@@ -1,0 +1,11 @@
+Êþº¾   4 O
+  . /
+  . 0
+  .	  1	  2	  3	  4	 5 6 7
+  . 8
+  9
+  :
+  ;
+ < = > ? <init> ()V Code LineNumberTable LocalVariableTable this Lkamera/kamera; main ([Ljava/lang/String;)V k I i args [Ljava/lang/String; p Lkamera/Point; 	rectangle Lkamera/Rectangle; count j StackMapTable ! / 0 
+SourceFile kamera.java   kamera/Point kamera/Rectangle @  A  B  C  D E F java/lang/StringBuilder Ilosc wykonanych zdjec to  G H G I J K L M N kamera/kamera java/lang/Object y height width x java/lang/System out Ljava/io/PrintStream; append -(Ljava/lang/String;)Ljava/lang/StringBuilder; (I)Ljava/lang/StringBuilder; toString ()Ljava/lang/String; java/io/PrintStream println (Ljava/lang/String;)V !               /     *· ±                        	      T     ‹» Y· L» Y· M>6+´ (`6,´ £ M,´ d,´   +´ 	6,´ ¢ *„„(§ÿñ,´ 6+´ 	¤ „+´ 	6„Ø§ÿë„(§ÿ°² 
+» Y· ¶ ¶ ¶ ¶ ±       B             '  5  D  G  M  \   _ ! e  k  q ' Š +    H  S      S      ‹   !    ƒ " #   { $ %   y &    v '   (   ! ÿ   ) * +  ü ú ú   ,    -
