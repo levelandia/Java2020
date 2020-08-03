@@ -1,0 +1,21 @@
+Êþº¾   9 _  Main  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LMain; main ([Ljava/lang/String;)V 
+Exceptions  java/io/FileNotFoundException  java/io/File  tekst.txt
+     (Ljava/lang/String;)V  java/util/Scanner
+     (Ljava/io/File;)V
+    ! " nextLine ()Ljava/lang/String;
+ $ & % java/lang/String ' ( charAt (I)C
+ * , + java/lang/Character - . isWhitespace (C)Z
+ $ 0 1 2 length ()I
+  4 5 6 hasNext ()Z	 8 : 9 java/lang/System ; < out Ljava/io/PrintStream;
+ > @ ? java/util/Arrays A B toString ([I)Ljava/lang/String;
+ D F E java/io/PrintStream G  println
+  I J  close args [Ljava/lang/String; tekst Ljava/io/File; input Ljava/util/Scanner; wyniki [I znak C line Ljava/lang/String; i I a StackMapTable R L 
+SourceFile 	Main.java !               /     *· ±    
+                    	            “     t» Y· L» Y+· M¼
+N§ ;,¶ :6§ %-\.`O¶ #6¸ )™ 
+-\.`O„¶ /¡ÿ×,¶ 3šÿÄ-.6-`O² 7-¸ =¶ C,¶ H±    
+   F    
+ 
+           &  -  6  >  E  R  Y  ^  e   o " s #    R    t K L   
+ j M N   a O P   ] Q R  6  S T    2 U V  # / W X  ^  Y X  Z   i þ    [ÿ   \   [  $  ÿ   \   [ $  ÿ   \   [  $  ÿ 	  \   [    ]    ^
