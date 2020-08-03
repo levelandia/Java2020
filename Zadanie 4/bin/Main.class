@@ -1,0 +1,20 @@
+Êþº¾   9 S  Main  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LMain; main ([Ljava/lang/String;)V  
+UczenKlasy
+  	  java/util/Scanner	    java/lang/System   in Ljava/io/InputStream;
+     (Ljava/io/InputStream;)V	     ! out Ljava/io/PrintStream; # ImiÄ™ ucznia:
+ % ' & java/io/PrintStream ( ) println (Ljava/lang/String;)V
+  + , - nextLine ()Ljava/lang/String;
+  / 0 ) 	UstawImie 2 Nazwisko ucznia:
+  4 5 ) UstawNazwisko 7 PESEL ucznia:
+  9 : ) 
+UstawPesel < KlasÄ™ ucznia:
+  > ? @ nextInt ()I
+  B C D 
+UstawKlase (I)V
+ % F ( G (Ljava/lang/Object;)V
+  I J  close args [Ljava/lang/String; uczen LKlasa; sc Ljava/util/Scanner; 
+SourceFile 	Main.java !               /     *· ±    
+                    	       Í     _» Y· L» Y² · M² "¶ $+,¶ *¶ .² 1¶ $+,¶ *¶ 3² 6¶ $+,¶ *¶ 8² ;¶ $+,¶ =¶ A² +¶ E,¶ H±    
+   6        	  
+ #  +  3  ;  C  K  S  Z  ^          _ K L    W M N   L O P   Q    R
