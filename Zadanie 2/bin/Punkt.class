@@ -1,0 +1,17 @@
+ ˛∫æ   4 H  Punkty  java/lang/Object x I y <init> ()V Code
+    	 LineNumberTable LocalVariableTable this LPunkt; (II)V	    	     a b 
+(LPunkt;)V pkt main ([Ljava/lang/String;)V
+    	  !   java/lang/System " # out Ljava/io/PrintStream; % Wsp√≥≈Çrzƒôdne 1 to: 
+ ' ) ( java/io/PrintStream * + println (Ljava/lang/String;)V - java/lang/StringBuilder / x1: 
+ , 1  +
+ , 3 4 5 append (I)Ljava/lang/StringBuilder;
+ , 7 8 9 toString ()Ljava/lang/String; ; y2: 
+  =   ? Wsp√≥≈Çrzƒôdne 2 to:  A x2:  args [Ljava/lang/String; punkt1 punkt2 
+SourceFile 
+Punkt.java !                     	  
+   /     *∑ ±                            
+   Y     *∑ *µ *µ ±             	 	 
+                                
+   U     *∑ *+¥ µ *+¥ µ ±                                    	    
+   Ï     éª Y
+∑ L≤ $∂ &≤ ª ,Y.∑ 0+¥ ∂ 2∂ 6∂ &≤ ª ,Y:∑ 0+¥ ∂ 2∂ 6∂ &ª Y+∑ <M≤ >∂ &≤ ª ,Y@∑ 0,¥ h∂ 2∂ 6∂ &≤ ª ,Y:∑ 0,¥ h∂ 2∂ 6∂ &±       & 	        -  F  O  W  r  ç          é B C    Ç D   O ? E    F    G
